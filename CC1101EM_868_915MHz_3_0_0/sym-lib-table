@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "CC1101EM_868_915MHz_3_0_0") (type "KiCad") (uri "${KIPRJMOD}/CC1101EM_868_915MHz_3_0_0.kicad_sym") (options "") (descr ""))
+)
